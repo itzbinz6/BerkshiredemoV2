@@ -39,6 +39,8 @@ export default function Footer() {
         <div className="footer-bottom">
           <span>© {year} Berkshire Hathaway Inc.</span>
           <span>NYSE: BRK.A · BRK.B</span>
+		  <span>Made by. <a href="https://abisolaajayi0.vercel.app" target="_blank" rel="noopener noreferrer">Ajayi Abisola Enoch</a></span>
+
         </div>
       </div>
     </footer>
