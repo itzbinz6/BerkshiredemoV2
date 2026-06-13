@@ -255,10 +255,6 @@ button,a{touch-action:manipulation;}
 @media(max-width:900px){
   .nav-links{display:none;}
   .hamburger{display:flex;}
-  .mobile-menu{display:none;}
-  .hero-inner{grid-template-columns:1fr;gap:2.5rem;padding:100px 0 60px;align-items:start;}
-  .hero-right{display:grid;grid-template-columns:1fr 1fr;gap:0;}
-  .hero-sub{font-size:.9375rem;max-width:100%;}
 }
 @media(max-width:768px){
   section{padding:60px 0;}
